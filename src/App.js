@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
 
-   Welcome to AWS
+   <h1>Hello welcome to AWS </h1>
   );
 }
 
